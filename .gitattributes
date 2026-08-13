@@ -1,0 +1,6 @@
+# Guardar siempre LF en el repositorio, sin importar el sistema del que se commitea
+* text=auto eol=lf
+
+*.html text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf

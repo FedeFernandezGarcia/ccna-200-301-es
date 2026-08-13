@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Salidas temporales de verificación
+drill_out.json
+*.tmp
