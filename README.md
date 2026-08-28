@@ -3,7 +3,10 @@
 Sitio de estudio para el **CCNA 200-301**, en español, explicado desde cero.
 Una sola página autocontenida: 29 módulos, sin dependencias externas, sin build.
 
-**Publicado (privado) en:** https://claude.ai/code/artifact/f561e55f-9a87-4e45-9b1e-a613bec8d4cc
+**Leelo acá:** https://fernandezfederico1899-hue.github.io/ccna-sin-vueltas/
+
+Lo escribí para estudiar yo, cansado y después de trabajar, porque el material que
+encontraba daba por sabido justo lo que no sabía. Si te sirve, es tuyo.
 
 ## Qué incluye
 
@@ -79,3 +82,10 @@ publica. Sirve como orientación, no como garantía.
 Material de estudio de uso personal. No incluye ni redistribuye contenido con
 copyright de Cisco: los temarios oficiales se citan como referencia y están
 disponibles en el sitio de Cisco Learning Network.
+
+## Quién lo escribió
+
+Federico Fernández García — coordinador de sistemas y desarrollador. Trabajo con
+redes, infraestructura y desarrollo en producción, y estoy preparando el CCNA.
+
+[LinkedIn](https://www.linkedin.com/in/federico-fernandez-garcia-8297bb2b6)
