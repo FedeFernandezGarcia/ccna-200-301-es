@@ -1,4 +1,4 @@
-# CCNA sin vueltas
+# CCNA 200-301: guía de estudio en español
 
 Sitio de estudio para el **CCNA 200-301**, en español, explicado desde cero.
 Una sola página autocontenida: 29 módulos, sin dependencias externas, sin build.
@@ -23,7 +23,7 @@ encontraba daba por sabido justo lo que no sabía. Si te sirve, es tuyo.
 ## Estructura
 
 ```
-src/ccna-sin-vueltas.html   El fuente. Es lo único que se edita.
+src/ccna-200-301-es.html   El fuente. Es lo único que se edita.
 index.html                  Generado por build.py. Standalone, para abrir local.
 build.py                    Genera index.html desde el fuente.
 tools/verificar_html.py     Chequea integridad estructural del sitio.

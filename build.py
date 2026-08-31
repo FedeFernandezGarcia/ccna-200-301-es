@@ -13,7 +13,7 @@ Uso:  python build.py
 import pathlib
 
 RAIZ = pathlib.Path(__file__).parent
-FUENTE = RAIZ / "src" / "ccna-sin-vueltas.html"
+FUENTE = RAIZ / "src" / "ccna-200-301-es.html"
 SALIDA = RAIZ / "index.html"
 
 WRAPPER = """<!doctype html>

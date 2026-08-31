@@ -11,7 +11,7 @@ import re
 import sys
 
 RAIZ = pathlib.Path(__file__).parent.parent
-FUENTE = RAIZ / "src" / "ccna-sin-vueltas.html"
+FUENTE = RAIZ / "src" / "ccna-200-301-es.html"
 
 c = FUENTE.read_text(encoding="utf-8")
 fallos = 0
