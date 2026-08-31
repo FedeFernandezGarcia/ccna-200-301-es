@@ -3,7 +3,7 @@
 Sitio de estudio para el **CCNA 200-301**, en español, explicado desde cero.
 Una sola página autocontenida: 29 módulos, sin dependencias externas, sin build.
 
-**Leelo acá:** https://fernandezfederico1899-hue.github.io/ccna-sin-vueltas/
+**Leelo acá:** https://fernandezfederico1899-hue.github.io/ccna-200-301-es/
 
 Lo escribí para estudiar yo, cansado y después de trabajar, porque el material que
 encontraba daba por sabido justo lo que no sabía. Si te sirve, es tuyo.
